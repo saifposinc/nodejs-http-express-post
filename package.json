@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-http-express-post",
+  "version": "1.0.0",
+  "description": "Using static files with Express, Http POST request with Express  The folder 'static' in the root directory contains index.html.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
